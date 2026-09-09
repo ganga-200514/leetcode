@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ganga-200514/leetcode/tree/master/0015-3sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ganga-200514/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -13,4 +14,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ganga-200514/leetcode/tree/master/0015-3sum) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/ganga-200514/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
