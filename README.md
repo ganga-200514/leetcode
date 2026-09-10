@@ -28,12 +28,14 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ganga-200514/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/ganga-200514/leetcode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/ganga-200514/leetcode/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/ganga-200514/leetcode/tree/master/0131-palindrome-partitioning) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ganga-200514/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/ganga-200514/leetcode/tree/master/0010-regular-expression-matching) |
 | [0131-palindrome-partitioning](https://github.com/ganga-200514/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Manacher
 |  |
@@ -43,4 +45,8 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ganga-200514/leetcode/tree/master/0131-palindrome-partitioning) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ganga-200514/leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
