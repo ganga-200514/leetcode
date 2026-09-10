@@ -19,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ganga-200514/leetcode/tree/master/0007-reverse-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ganga-200514/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
