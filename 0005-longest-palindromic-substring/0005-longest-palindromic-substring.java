@@ -8,8 +8,8 @@ class Solution {
         int end = 0;
 
         for (int i = 0; i < s.length(); i++) {
-            int len1 = expandAroundCenter(s, i, i);       // Odd length
-            int len2 = expandAroundCenter(s, i, i + 1); // Even length
+            int len1 = expandAroundCenter(s, i, i);       
+            int len2 = expandAroundCenter(s, i, i + 1); 
 
             int len = Math.max(len1, len2);
 
