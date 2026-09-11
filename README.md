@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ganga-200514/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/ganga-200514/leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/ganga-200514/leetcode/tree/master/0053-maximum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganga-200514/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -25,6 +26,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ganga-200514/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ganga-200514/leetcode/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganga-200514/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ganga-200514/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
