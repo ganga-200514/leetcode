@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ganga-200514/leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/ganga-200514/leetcode/tree/master/0053-maximum-subarray) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ganga-200514/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ganga-200514/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -50,4 +51,13 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ganga-200514/leetcode/tree/master/0010-regular-expression-matching) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ganga-200514/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ganga-200514/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ganga-200514/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
