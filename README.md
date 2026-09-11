@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ganga-200514/leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/ganga-200514/leetcode/tree/master/0012-integer-to-roman) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ganga-200514/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
@@ -40,6 +41,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ganga-200514/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ganga-200514/leetcode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/ganga-200514/leetcode/tree/master/0012-integer-to-roman) |
 | [0131-palindrome-partitioning](https://github.com/ganga-200514/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Manacher
 |  |
@@ -57,6 +59,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ganga-200514/leetcode/tree/master/0012-integer-to-roman) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganga-200514/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
