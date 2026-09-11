@@ -23,6 +23,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ganga-200514/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ganga-200514/leetcode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/ganga-200514/leetcode/tree/master/0029-divide-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ganga-200514/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ganga-200514/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/ganga-200514/leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
