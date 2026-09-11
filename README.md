@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ganga-200514/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/ganga-200514/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ganga-200514/leetcode/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -74,4 +75,20 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ganga-200514/leetcode/tree/master/0029-divide-two-integers) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ganga-200514/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ganga-200514/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ganga-200514/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ganga-200514/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
