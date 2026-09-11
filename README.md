@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ganga-200514/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/ganga-200514/leetcode/tree/master/0015-3sum) |
+| [0046-permutations](https://github.com/ganga-200514/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/ganga-200514/leetcode/tree/master/0053-maximum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganga-200514/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ganga-200514/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -52,6 +53,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/ganga-200514/leetcode/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/ganga-200514/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Recursion
 |  |
